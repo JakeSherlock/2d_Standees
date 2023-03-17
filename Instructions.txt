@@ -1,0 +1,1 @@
+Download the template of the mini in the templates folder, then create your image at photopea.com. Afterword, post it to imgur or host it on a private discord server and copy the url of the image (ending in .png) into the custom tab on TTS.
